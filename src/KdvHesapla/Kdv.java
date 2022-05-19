@@ -14,7 +14,7 @@ public class Kdv {
         float kdvliPara = para + para * kdv ;
 
         System.out.println("Kdvsiz para tutari " + para);
-        System.out.println("Kdv Tutari " + kdv);
+        System.out.println("Kdv Tutari " + para * kdv);
         System.out.println("Kdvli para tutari " + kdvliPara);
 
 
